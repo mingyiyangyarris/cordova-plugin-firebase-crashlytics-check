@@ -1,0 +1,8 @@
+{
+  "name": "cordova-plugin-firebase-crashlytics-check",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
